@@ -28,4 +28,4 @@ to read, eslint (Airbnb and Prettier configurations) to find problems in the cod
 ## [React Portfolio](https://christian-dean-demesa-portfolio.netlify.app/)
 
 ## Author
-- Christian Demesa: https://github.com/christiandeandemesa
+- Munish Mummadi: https://github.com/MunishMummadi
