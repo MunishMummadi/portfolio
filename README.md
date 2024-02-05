@@ -5,7 +5,7 @@ The project was built with javascript, prettier to make the code easier
 to read, eslint (Airbnb and Prettier configurations) to find problems in the code, tailwindcss for inline styling, emailjs to handle the contact form, react-three for the globe, formik and yup for form validations, framer-motion for the animations, prop-types to declare the type of props for eslint, react-anchor-link-smooth-scroll to scroll the page smoothly when using the navigation dots, tsparticles for the footer's particle effect, react-typewriter effect for the typewriter effect, and Google Fonts.
 
 ## How to run this project
-1. Open your terminal and type git clone https://github.com/christiandeandemesa/react-portfolio.git
+1. Open your terminal and type git clone https://github.com/MunishMummadi/portfolio.git
 2. To download the dependencies, cd into the react-portfolio folder and type npm install.
 3. Run this project by typing npm start.
 
@@ -25,7 +25,7 @@ to read, eslint (Airbnb and Prettier configurations) to find problems in the cod
 ## Upcoming Features
 - Cross browser support for Chrome, Firefox, Opera, and Safari.
 
-## [React Portfolio](https://christian-dean-demesa-portfolio.netlify.app/)
+
 
 ## Author
 - Munish Mummadi: https://github.com/MunishMummadi
