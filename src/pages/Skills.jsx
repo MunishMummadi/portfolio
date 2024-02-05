@@ -39,15 +39,13 @@ function Skills() {
 					<LineGradient width='w-1/3' />
 
 					<p className='mt-10 mb-7'>
-					I am Munish Mummadi, currently pursuing a Master's degree in Computer Information Science at Saint Louis University. 
-                    My proficiency spans a diverse range of programming languages, including JavaScript/TypeScript, Python, C++, and Golang.
-                    On the front-end development, I have experience with technologies such as React.js, Next.js, HTML, and CSS. 
-                	On the backend, my skill set encompasses Node.js, Express.js, Nest.js, GraphQL, and the implementation of REST APIs.
-					I have a solid understanding of containerization technologies, specifically Docker and Kubernetes, for efficient 
-					deployment and management of applications. In terms of continuous integration and continuous deployment (CI/CD),
-					I am well-versed in Jenkins, GitHub Actions, and ArgoCD.Infrastructure as Code (IAC) is an integral part of my expertise, and I am proficient in using Terraform, Pulumi, 
-					and CloudFormation to automate and manage infrastructure deployments.In addition to the above, I have hands-on experience with essential tools like Git and Linux, ensuring effective 
-					version control and a robust operating environment.
+					Currently pursuing a Master's in Computer Information Science at Saint Louis University, 
+					I excel in various programming languages, including JavaScript/TypeScript, Python, C++, and Rust.
+					My front-end skills encompass React.js, Next.js, HTML, and CSS, while on the backend, 
+					I specialize in Node.js, Express.js, Nest.js, GraphQL, and REST API implementation. 
+					Proficient in Docker and Kubernetes for efficient deployment, I am experienced in CI/CD using Jenkins, GitHub Actions, and ArgoCD. 
+					I specialize in Infrastructure as Code, using Terraform, Pulumi, and CloudFormation. 
+					Additionally, I have hands-on experience with Git and Linux for effective version control and a robust operating environment.
 
 					</p>
 				</motion.div>

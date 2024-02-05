@@ -24,7 +24,7 @@ function Footer() {
 				<SocialMediaIcons />
 				<div className='md:flex justify-center md:justify-between text-center'>
 					<p className='font-playfair font-semibold text-2xl text-yellow'>
-						CHRISTIAN DEMESA
+						Munish Mummadi
 					</p>
 					<p className='font-playfair text-md text-yellow'>
 						©{year} DyslecixDev. All Rights Reserved.

@@ -80,8 +80,8 @@ function Home() {
         >
           <p className='text-6xl font-playfair z-10 text-center md:text-start'>
             Munish{' '}
-            <span className='xs:relative xs:text-black xs:font-semibold z-20 xs:before:content-brush before:absolute before:-left-[25px] before:-top-[70px] before:z-[-1]'>
-              Mummadi
+            <span className='xs:relative xs:text-white xs:font-semibold z-20 xs:before:absolute before:-left-[25px] before:-top-[70px] before:z-[-1]'>
+            Mummadi
             </span>
           </p>
 
