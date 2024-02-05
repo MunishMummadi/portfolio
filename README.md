@@ -1,8 +1,6 @@
 # React Portfolio
 My updated portfolio built using React based on Ed Roh's [portfolio tutorial](https://www.youtube.com/watch?v=JSJ8ftr92Vw).
 
-![react-portfolio](https://user-images.githubusercontent.com/85912934/214972501-ccee7bb8-d194-424e-a17a-acab084d4eab.png)
-
 The project was built with javascript, prettier to make the code easier 
 to read, eslint (Airbnb and Prettier configurations) to find problems in the code, tailwindcss for inline styling, emailjs to handle the contact form, react-three for the globe, formik and yup for form validations, framer-motion for the animations, prop-types to declare the type of props for eslint, react-anchor-link-smooth-scroll to scroll the page smoothly when using the navigation dots, tsparticles for the footer's particle effect, react-typewriter effect for the typewriter effect, and Google Fonts.
 
