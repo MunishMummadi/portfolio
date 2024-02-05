@@ -12,7 +12,7 @@ function SocialMediaIcons() {
 		<div className='flex justify-center md:justify-start my-10 gap-7'>
 			<a
 				className='hover:opacity-50 transition-duration-500'
-				href='https://www.linkedin.com/in/dyslecixdev/'
+				href='https://www.linkedin.com/in/munishmummadi/'
 				target='_blank'
 				rel='noopener noreferrer'
 			>
@@ -20,23 +20,23 @@ function SocialMediaIcons() {
 			</a>
 			<a
 				className='hover:opacity-50 transition-duration-500'
-				href='https://github.com/dyslecixdev'
+				href='https://github.com/MunishMummadi'
 				target='_blank'
 				rel='noopener noreferrer'
 			>
 				<FontAwesomeIcon icon={faGithub} style={{color: '#ffffff', fontSize: '2rem'}} />
 			</a>
-			<a
+			{/* <a
 				className='hover:opacity-50 transition-duration-500'
 				href='https://logiclyceum.com/'
 				target='_blank'
 				rel='noopener noreferrer'
 			>
 				<FontAwesomeIcon icon={faPaperPlane} style={{color: '#ffffff', fontSize: '2rem'}} />
-			</a>
+			</a> */}
 			<a
 				className='hover:opacity-50 transition-duration-500'
-				href='https://twitter.com/DyslecixDev'
+				href='https://twitter.com/MunishMummadi'
 				target='_blank'
 				rel='noopener noreferrer'
 			>
@@ -44,7 +44,7 @@ function SocialMediaIcons() {
 			</a>
 			<a
 				className='hover:opacity-50 transition-duration-500'
-				href='https://www.instagram.com/dyslecixdev/'
+				href='https://www.instagram.com/kausaleya_nandan/'
 				target='_blank'
 				rel='noopener noreferrer'
 			>

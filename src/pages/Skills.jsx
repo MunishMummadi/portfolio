@@ -39,15 +39,16 @@ function Skills() {
 					<LineGradient width='w-1/3' />
 
 					<p className='mt-10 mb-7'>
-						Hello, I&apos;m Christian Demesa, a Software Engineer! I am a father of two
-						wonderful boys, have a B.A. in philosophy, and Software Development
-						certificates in Python, MERN, and Java full stack software development from
-						Coding Dojo. I specialize in React and Next.js related projects with a heavy
-						emphasis on responsive UI design, RESTful routing, MVC architecture,
-						functional programming, test driven development, and Agile methodologies.
-						When I&apos;m not coding, other hobbies of mine include writing about
-						philosophy, playing piano, hiking, and having my kids beat me at Super Smash
-						Bros.
+					I am Munish Mummadi, currently pursuing a Master's degree in Computer Information Science at Saint Louis University. 
+                    My proficiency spans a diverse range of programming languages, including JavaScript/TypeScript, Python, C++, and Golang.
+                    On the front-end development, I have experience with technologies such as React.js, Next.js, HTML, and CSS. 
+                	On the backend, my skill set encompasses Node.js, Express.js, Nest.js, GraphQL, and the implementation of REST APIs.
+					I have a solid understanding of containerization technologies, specifically Docker and Kubernetes, for efficient 
+					deployment and management of applications. In terms of continuous integration and continuous deployment (CI/CD),
+					I am well-versed in Jenkins, GitHub Actions, and ArgoCD.Infrastructure as Code (IAC) is an integral part of my expertise, and I am proficient in using Terraform, Pulumi, 
+					and CloudFormation to automate and manage infrastructure deployments.In addition to the above, I have hands-on experience with essential tools like Git and Linux, ensuring effective 
+					version control and a robust operating environment.
+
 					</p>
 				</motion.div>
 			</div>
@@ -73,7 +74,7 @@ function Skills() {
 						<div className='w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]' />
 					</div>
 					<p className='mt-5'>
-						I am proficient in HTML, CSS, JavaScript, Typescript, Python, Java, and SQL.
+						I am proficient in HTML, CSS, JavaScript, Typescript, Python, Rust, and SQL.
 					</p>
 				</motion.div>
 
@@ -98,7 +99,7 @@ function Skills() {
 					</div>
 					<p className='mt-5'>
 						The frameworks I am the most comfortable with include React, Next.js,
-						Angular, Flask, Spring Boot, Node.js, Express.js, jQuery, NumPy, and Pandas.
+						Angular, Node.js, Express.js, jQuery, NumPy, and Pandas.
 					</p>
 				</motion.div>
 
