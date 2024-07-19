@@ -42,4 +42,4 @@ npm run build
 
 ## 📄 License
 
-MIT © [Ben Dixon](https://github.com/MunishMummadi/portfolio_dev/blob/main/LICENSE)
+MIT © [Munish Mummadi](https://github.com/MunishMummadi/portfolio_dev/blob/main/LICENSE)
