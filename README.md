@@ -1,6 +1,6 @@
 <div align="center">
 
-<a target="_blank" href="https://nuro.dev">
+<a target="_blank" href="https://munishdev.fun">
     <img alt='Website' src="./public/screenshot.png" />
 </a>
 
