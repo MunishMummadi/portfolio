@@ -1,11 +1,20 @@
 [
 	{
-		"date": "07-23-2024",
+		"date": "07-20-2024",
 		"title": "Launched munishdev.fun",
 		"description": "Successfully launched my newly re-designed portfolio",
 		"icon": "feather:award"
 	},
-
+	{
+		"date": "02-15-2024",
+		"title": "Code Contributor",
+		"description": "Started working on Servo web rendering engine",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Servo",
+			"url": "https://www.servo.org"
+		}
+	},
 	{
 		"date": "08-15-2023",
 		"title": "Started University",
@@ -17,6 +26,16 @@
 		"title": "Graduated College!",
 		"description": "Successfully completed my Bachelor's Degree",
 		"icon": "feather:award"
+	},
+	{
+		"date": "07-15-2021",
+		"title": "Research Assistant",
+		"description": "Started as a research asssitant under my professor's guidance",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "GVPCE",
+			"url": "https://www.gvpce.ac.in/"
+		}
 	},
 	{
 		"date": "07-07-2019",
