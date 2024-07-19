@@ -13,6 +13,7 @@ import type { GitHubRepos, Project, ProjectPost } from '~/types';
  * @TODO Switch to v3 API using GraphQL to save over-fetching
  */
 export async function fetchProjects(): Promise<Array<Project> | null> {
+	/*
 	const response = await fetch('https://api.github.com/users/MunishMummadi/repos', {
 		headers: {
 			...(process.env.GITHUB_PAT && {
@@ -74,6 +75,22 @@ export async function fetchProjects(): Promise<Array<Project> | null> {
 			} as Project;
 		})
 		.filter((project) => project !== null);
+
+	return projects;
+	*/
+
+	// New code to fetch projects from JSON file
+	const { default: projectsData } = await import('~/data/projects.json');
+	
+	const projects: Array<Project> = projectsData.map((project) => ({
+		description: project.description,
+		icon: project.icon,
+		homepage: project.homepage,
+		name: project.name,
+		post: project.post ? `/blog/${project.post}` : undefined,
+		template: false,
+		url: project.url,
+	}));
 
 	return projects;
 }

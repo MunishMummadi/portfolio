@@ -18,7 +18,7 @@ export function useSeoProps(
 		openGraph: {
 			title,
 			description,
-			site_name: 'nuro',
+			site_name: 'Munish',
 			url: `https://munishdev.fun/${router.asPath}`,
 			type: 'website',
 			images: [
