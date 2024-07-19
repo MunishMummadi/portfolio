@@ -35,6 +35,6 @@ npm run build
 
 ```
 
-## 📄 License
+## License
 
-MIT © [Munish Mummadi](https://github.com/MunishMummadi/portfolio_dev/blob/main/LICENSE)
+Inspired from [nuro](https://github.com/NuroDev/nuro.dev)
