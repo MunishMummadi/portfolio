@@ -35,6 +35,4 @@ npm run build
 
 ```
 
-## License
-
 Inspired from [nuro](https://github.com/NuroDev/nuro.dev)
