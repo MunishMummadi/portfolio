@@ -5,16 +5,7 @@
 		"description": "Successfully launched my newly re-designed portfolio",
 		"icon": "feather:award"
 	},
-	{
-		"date": "07-22-2024",
-		"title": "First Developer Role",
-		"description": "Began an internship as a junior developer working at Stink Studios",
-		"icon": "feather:briefcase",
-		"link": {
-			"text": "Visit Stink Studios",
-			"url": "https://stinkstudios.com/"
-		}
-	},
+
 	{
 		"date": "08-15-2023",
 		"title": "Started University",
