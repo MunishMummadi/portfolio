@@ -24,6 +24,12 @@ const ACTIONS: Array<NavigationItem> = [
 	},
 	{
 		type: NavigationItemType.LINK,
+		href: 'https://drive.google.com/file/d/101-V0iuoaZQ3AzPu1_jo_SpbP43XEQKr/view?usp=sharing',
+		icon: <Icon className="mr-3" icon="feather:copy" />,
+		text: 'Resume',
+	},
+	{
+		type: NavigationItemType.LINK,
 		external: true,
 		href: 'https://github.com/MunishMummadi',
 		icon: <Icon className="mr-3" icon="feather:github" />,
