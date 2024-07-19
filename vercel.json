@@ -1,0 +1,20 @@
+{
+	"$schema": "https://openapi.vercel.sh/vercel.json",
+	"version": 2,
+	"alias": "munishdev.fun",
+	"cleanUrls": true,
+	"public": true,
+	"regions": ["lhr1"],
+	"redirects": [
+		{ "source": "/cv", "destination": "https://drive.google.com/file/d/101-V0iuoaZQ3AzPu1_jo_SpbP43XEQKr/view?usp=sharing" },
+		{ "source": "/github", "destination": "https://github.com/MunishMummadi" },
+		{ "source": "/linkedin", "destination": "https://www.linkedin.com/in/munishmummadi" },
+		{ "source": "/portfolio", "destination": "/projects" },
+		{ "source": "/resume", "destination": "https://drive.google.com/file/d/101-V0iuoaZQ3AzPu1_jo_SpbP43XEQKr/view?usp=sharing" },
+		{ "source": "/twitter", "destination": "https://twitter.com/munishmummadi" },
+		{
+			"source": "/contact",
+			"destination": "https://twitter.com/direct_messages/create/munishmummadi"
+		}
+	]
+}

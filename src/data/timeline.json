@@ -1,0 +1,42 @@
+[
+	{
+		"date": "07-23-2024",
+		"title": "Launched munishdev.fun",
+		"description": "Successfully launched my newly re-designed portfolio",
+		"icon": "feather:award"
+	},
+	{
+		"date": "07-22-2024",
+		"title": "First Developer Role",
+		"description": "Began an internship as a junior developer working at Stink Studios",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Visit Stink Studios",
+			"url": "https://stinkstudios.com/"
+		}
+	},
+	{
+		"date": "08-15-2023",
+		"title": "Started University",
+		"description": "Began studying Computer Information Science",
+		"icon": "feather:book"
+	},
+	{
+		"date": "04-07-2023",
+		"title": "Graduated College!",
+		"description": "Successfully completed my Bachelor's Degree",
+		"icon": "feather:award"
+	},
+	{
+		"date": "07-07-2019",
+		"title": "Started College",
+		"description": "Began studying Mechanical Engineering",
+		"icon": "feather:book"
+	},
+	{
+		"date": "07-07-2000",
+		"title": "Birthday!",
+		"description": "I was born the 7th of July 2000",
+		"icon": "feather:gift"
+	}
+]
