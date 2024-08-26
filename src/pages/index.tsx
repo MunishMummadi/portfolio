@@ -24,7 +24,7 @@ const ACTIONS: Array<NavigationItem> = [
 	},
 	{
 		type: NavigationItemType.LINK,
-		href: 'https://drive.google.com/file/d/178zpwL4dftD_diZkgy6vO7GQpTuibDZu/view?usp=sharing',
+		href: 'https://drive.google.com/file/d/1ZIXcpdXs-wGSLk1Y_EehOdcNfZEdHbM2/view?usp=sharing',
 		icon: <Icon className="mr-3" icon="feather:copy" />,
 		text: 'Resume',
 	},
