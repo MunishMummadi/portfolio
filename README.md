@@ -8,7 +8,7 @@
 
   A modern, responsive portfolio website built with Next.js and Tailwind CSS.
   
-  [Live Demo](https://munishdev.fun) | [Report Bug](https://github.com/MunishMummadi/portfolio_dev/issues) | [Request Feature](https://github.com/MunishMummadi/portfolio_dev/issues)
+  [Live Demo](https://munishdev.fun) | [Report Bug](https://github.com/MunishMummadi/portfolio/issues) | [Request Feature](https://github.com/MunishMummadi/portfolio/issues)
 </div>
 
 ## Features
@@ -38,12 +38,12 @@
 
 1. Clone the repository
 ```bash
-git clone https://github.com/MunishMummadi/portfolio_dev.git
+git clone https://github.com/MunishMummadi/portfolio.git
 ```
 
 2. Navigate to the project directory
 ```bash
-cd portfolio_dev
+cd portfolio
 ```
 
 3. Install dependencies
@@ -87,13 +87,6 @@ npm run start
 # or
 yarn start
 ```
-
-## Customization
-
-1. Update `data/` directory with your personal information
-2. Modify the theme in `tailwind.config.js`
-3. Replace images in `public/` directory
-4. Update content in `pages/` directory
 
 ## Contributing
 
