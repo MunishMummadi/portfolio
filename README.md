@@ -1,12 +1,10 @@
+  # Personal Portfolio Website
 
+  A modern, responsive portfolio website built with Next.js and Tailwind CSS.
 <div align="center">
   <a href="https://munishdev.fun" target="_blank">
     <img alt='Portfolio Website Screenshot' src="./public/Screenshot.png" />
   </a>
-
-  # Personal Portfolio Website
-
-  A modern, responsive portfolio website built with Next.js and Tailwind CSS.
   
   [Live Demo](https://munishdev.fun) | [Report Bug](https://github.com/MunishMummadi/portfolio/issues) | [Request Feature](https://github.com/MunishMummadi/portfolio/issues)
 </div>
