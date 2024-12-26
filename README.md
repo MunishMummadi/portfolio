@@ -38,8 +38,6 @@
 ```bash
 git clone git@github.com:MunishMummadi/portfolio.git
 
-2. Navigate to the project directory
-
 cd portfolio
 
 ```
