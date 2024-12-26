@@ -51,19 +51,11 @@ npm install
 yarn install
 ```
 
-4. Create a `.env` file in the root directory and add necessary environment variables
-```env
-# Example environment variables
-NEXT_PUBLIC_SITE_URL=http://localhost:3000
-```
-
 ### Development
 
 Start the development server:
 ```bash
 npm run dev
-# or
-yarn dev
 ```
 
 The site will be available at `http://localhost:3000`
@@ -73,8 +65,6 @@ The site will be available at `http://localhost:3000`
 Create a production build:
 ```bash
 npm run build
-# or
-yarn build
 ```
 
 ### Production
@@ -82,19 +72,8 @@ yarn build
 Run the production server:
 ```bash
 npm run start
-# or
-yarn start
 ```
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
