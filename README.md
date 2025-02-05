@@ -12,7 +12,7 @@
 ## Features
 
 - ⚡️ Next.js 14 with Server Side Rendering
-- 🎨 Tailwind CSS for styling 
+- 🎨 Tailwind CSS for styling
 - 📱 Fully Responsive Design
 - 🌙 Dark/Light mode
 - ⚡ Optimized for performance
