@@ -1,4 +1,16 @@
-[
+[	
+	{
+		"date": "03-15-2025",
+		"title": "Internship Ended",
+		"description": "Internship Ended with Redvest",
+		"icon": "feather:award"
+	},
+	{
+		"date": "01-01-2025",
+		"title": "Full Stack Intern",
+		"description": "Started as a Full Stack Intern at Redvest",
+		"icon": "feather:award"
+	},
 	{
 		"date": "07-20-2024",
 		"title": "Launched munishdev.fun",
