@@ -9,7 +9,11 @@
 		"date": "01-01-2025",
 		"title": "Full Stack Intern",
 		"description": "Started as a Full Stack Intern at Redvest",
-		"icon": "feather:award"
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Redvest",
+			"url": "https://www.redvest.com"
+		}
 	},
 	{
 		"date": "07-20-2024",
@@ -38,16 +42,6 @@
 		"title": "Graduated College!",
 		"description": "Successfully completed my Bachelor's Degree",
 		"icon": "feather:award"
-	},
-	{
-		"date": "07-15-2021",
-		"title": "Research Assistant",
-		"description": "Started as a research asssitant under my professor's guidance",
-		"icon": "feather:briefcase",
-		"link": {
-			"text": "GVPCE",
-			"url": "https://www.gvpce.ac.in/"
-		}
 	},
 	{
 		"date": "07-07-2019",
