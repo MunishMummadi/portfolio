@@ -10,7 +10,7 @@
 		{ "source": "/github", "destination": "https://github.com/MunishMummadi" },
 		{ "source": "/linkedin", "destination": "https://www.linkedin.com/in/munishmummadi" },
 		{ "source": "/portfolio", "destination": "/projects" },
-		{ "source": "/resume", "destination": "https://drive.google.com/file/d/1fEakjHiHd-Fxg4AwjSJw1pYs0rn71cdU/view?usp=sharing" },
+		{ "source": "/resume", "destination": "https://drive.google.com/file/d/1RC81r0sBt2yU4HqAiMHZhKGZuGm5pV9f/view?usp=sharing" },
 		{ "source": "/twitter", "destination": "https://twitter.com/munishmummadi" },
 		{
 			"source": "/contact",
