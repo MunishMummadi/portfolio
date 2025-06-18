@@ -1,5 +1,11 @@
 [
 	{
+		"date": "05-15-2025",
+		"title": "Graduated University",
+		"description": "Successfully completed my Master's Degree in Computer Information Science",
+		"icon": "feather:award"
+	},
+	{
 		"date": "11-15-2024",
 		"title": "Software Engineer",
 		"description": "Started as a Software Engineer at Rocket Mortgage",
@@ -16,32 +22,26 @@
 		"icon": "feather:award"
 	},
 	{
-		"date": "02-15-2024",
-		"title": "Code Contributor",
-		"description": "Started working on Servo web rendering engine",
-		"icon": "feather:briefcase",
-		"link": {
-			"text": "Servo",
-			"url": "https://www.servo.org"
-		}
-	},
-	{
 		"date": "08-15-2023",
 		"title": "Started University",
 		"description": "Began studying Computer Information Science",
 		"icon": "feather:book"
 	},
 	{
-		"date": "04-07-2023",
-		"title": "Graduated College!",
-		"description": "Successfully completed my Bachelor's Degree",
-		"icon": "feather:award"
+		"date": "05-23-2023",
+		"title": "Software Engineer role ended",
+		"description": "Ended my Software Engineer role at Cognizant",
+		"icon": "feather:briefcase"
 	},
 	{
-		"date": "07-07-2019",
-		"title": "Started College",
-		"description": "Began studying Mechanical Engineering",
-		"icon": "feather:book"
+		"date": "02-21-2021",
+		"title": "Software Engineer",
+		"description": "Started as a Software Engineer at Cognizant",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Cognizant",
+			"url": "https://www.cognizant.com/us/en"
+		}
 	},
 	{
 		"date": "07-07-2000",
