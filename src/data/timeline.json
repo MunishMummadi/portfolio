@@ -1,11 +1,11 @@
 [
 	{
-		"date": "01-01-2025",
+		"date": "11-15-2024",
 		"title": "Software Engineer",
 		"description": "Started as a Software Engineer at Rocket Mortgage",
 		"icon": "feather:briefcase",
 		"link": {
-			"text": "Rocket Mortgage", 
+			"text": "Rocket Mortgage",
 			"url": "https://www.rocketmortgage.com/"
 		}
 	},
