@@ -1,18 +1,12 @@
-[	
-	{
-		"date": "03-15-2025",
-		"title": "Internship Ended",
-		"description": "Internship Ended with Redvest",
-		"icon": "feather:award"
-	},
+[
 	{
 		"date": "01-01-2025",
-		"title": "Full Stack Intern",
-		"description": "Started as a Full Stack Intern at Redvest",
+		"title": "Software Engineer",
+		"description": "Started as a Software Engineer at Rocket Mortgage",
 		"icon": "feather:briefcase",
 		"link": {
-			"text": "Redvest",
-			"url": "https://www.redvest.com"
+			"text": "Rocket Mortgage", 
+			"url": "https://www.rocketmortgage.com/"
 		}
 	},
 	{
