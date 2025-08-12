@@ -19,13 +19,20 @@ const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
 		href: '/projects',
-		icon: <Icon className="mr-3" icon="feather:copy" />,
+		icon: <Icon className="mr-3" icon="feather:folder" />,
 		text: 'Projects',
 	},
 	{
 		type: NavigationItemType.LINK,
+		href: 'https://blog.munish.me/',
+		icon: <Icon className="mr-3" icon="feather:edit" />,
+		text: 'Blog',
+	},
+	
+	{
+		type: NavigationItemType.LINK,
 		href: 'https://drive.google.com/file/d/17wf2gL4BHkr49ZRZa1t1LHrtTSzNfiDW/view?usp=sharing?usp=sharing',
-		icon: <Icon className="mr-3" icon="feather:copy" />,
+		icon: <Icon className="mr-3" icon="feather:user" />,
 		text: 'Resume',
 	},
 	{
